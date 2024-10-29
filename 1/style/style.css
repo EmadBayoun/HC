@@ -1,0 +1,14 @@
+#bild{
+    width: 200px;
+    border: solid;
+    border-color: #979DAB;
+}
+html,body{
+    height: 100%;
+    color: #979DAB;
+    font-family: 'Roboto', sans-serif;
+    background-color: #53607D;
+}
+.header{
+    margin: 2em;
+}

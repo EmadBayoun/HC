@@ -1,0 +1,27 @@
+.header{
+    font-size: 30px;
+    text-align: center;
+    color: #1A73E8;
+    /* margin-top: 40px; */
+}
+html{
+    border: 5px solid #B0BEC5;
+}
+body,html{
+    min-width: 80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to bottom, #FFFFFF,#E3F2FD);
+    background-repeat: no-repeat;
+}
+
+.container{
+    padding-left: 5%;
+}
+
+p{
+    color: #3D3D3D;
+}
+
+.HochschuleBochum:hover{
+    color: #D32F2F;
+}
